@@ -50,3 +50,7 @@ Thumbs.db
 # Explicitly ignore these files
 client_secret_449120428571-cmn114u7jcnc4j86acm03rolfgesfcdi.apps.googleusercontent.com.json
 token.json
+allforone.py
+
+learn.py
+test.py
