@@ -11,6 +11,7 @@ class Settings(BaseSettings):
 
     GOOGLE_CALENDAR_CREDENTIALS_PATH: str
     GOOGLE_CALENDAR_TOKEN_PATH: str
+    TIMEZONE: str = "UTC"
 
     class Config:
         env_file = ".env"
